@@ -1,4 +1,4 @@
-Magus is a tile based game engine     otype made with typescript.
+Magus is a tile based game engine made with typescript.
 
 **Run project**
 
